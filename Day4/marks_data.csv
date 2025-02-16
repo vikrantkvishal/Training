@@ -1,0 +1,101 @@
+id,name,math,science,english,total,grade
+1,Ida Sach,40,62,38,212,leading edge
+2,Haleigh Dulany,38,57,50,111,high-level
+3,Berte Rowlett,12,79,10,208,task-force
+4,Cad McQuode,12,42,82,207,help-desk
+5,Prue Izod,37,58,55,222,neutral
+6,Dalton Castagnet,10,24,31,262,Seamless
+7,Calla Gildroy,83,33,75,214,Total
+8,Jenica Webberley,90,74,52,205,Robust
+9,Gisella Gook,13,9,88,198,pricing structure
+10,Kaycee Spurier,63,52,77,210,projection
+11,Portie Roderigo,59,64,90,242,Vision-oriented
+12,Jinny Muselli,73,54,41,286,Profound
+13,Daloris Kleyn,65,42,93,35,De-engineered
+14,Minerva Niblock,9,64,13,229,uniform
+15,Lucias Guilliland,80,36,5,111,Public-key
+16,Turner Rilton,42,83,53,248,website
+17,Johnath Calderwood,70,24,81,4,heuristic
+18,Hestia Wimp,34,94,90,192,Customizable
+19,Gerrard Stitle,52,37,68,245,system-worthy
+20,Audre Varrow,52,23,48,48,forecast
+21,Fairlie McCreedy,59,99,79,266,Diverse
+22,Julianne Izakov,26,33,37,299,Object-based
+23,Yancy Fucher,28,39,61,130,Graphic Interface
+24,Ruthanne Ealles,21,53,13,127,open architecture
+25,Ruthe Gentsch,91,55,91,23,4th generation
+26,Fidela Humphery,40,12,67,51,Graphic Interface
+27,Kurt Terrelly,11,57,11,188,User-friendly
+28,Lucien Tidmas,60,80,60,152,framework
+29,Clim Bendley,43,59,80,196,intermediate
+30,Aindrea Urlin,47,96,66,112,Visionary
+31,Joyann Maus,93,95,72,163,secondary
+32,Abbe Mainwaring,64,12,62,193,instruction set
+33,Lothario MacGilpatrick,13,50,70,163,toolset
+34,Sibbie Bateup,62,31,81,50,regional
+35,Wanda Wilcot,30,74,88,100,human-resource
+36,Taddeusz Sugg,49,28,37,91,Object-based
+37,Byrann Critcher,16,35,46,128,task-force
+38,Nannie Klamman,2,84,4,290,Multi-channelled
+39,June Hrachovec,20,41,47,117,definition
+40,Luelle Pettett,69,34,92,74,clear-thinking
+41,Maggie Densumbe,75,78,62,299,framework
+42,Cornelius McCreary,9,38,4,121,matrix
+43,Jarad Dusey,45,26,62,162,incremental
+44,Lorna Vela,53,41,56,184,explicit
+45,Cristy Ludlam,34,28,32,2,client-server
+46,Colly Atcheson,13,33,22,52,incremental
+47,Kilian Sowersby,10,58,40,44,content-based
+48,Valle Winfindale,8,30,69,9,logistical
+49,Vally Kayzer,53,64,24,197,human-resource
+50,Mathilda Binnie,1,33,5,291,Extended
+51,Dannie Kezor,37,96,43,127,Grass-roots
+52,Hulda Frid,10,75,66,1,Switchable
+53,Aleksandr Tyhurst,11,97,6,209,Fully-configurable
+54,Alfonse Glasspool,84,42,35,200,Horizontal
+55,Darcey Riches,25,84,98,262,groupware
+56,Brandi Drance,35,98,51,232,matrices
+57,Jo Gerant,24,54,71,54,Function-based
+58,Ariadne Gudahy,44,27,76,72,pricing structure
+59,Marcelo Cleall,96,85,8,3,didactic
+60,Berne Haizelden,48,13,27,171,Front-line
+61,Caty Espadate,78,11,50,70,Programmable
+62,Benyamin Blasgen,58,34,52,278,archive
+63,Saidee Culp,44,71,98,78,zero administration
+64,Ikey Bartozzi,31,75,99,193,implementation
+65,Olag Kneeshaw,4,52,34,53,Function-based
+66,Cleo Sikorski,64,98,68,234,policy
+67,Hester Abarough,26,29,53,129,capacity
+68,Carry Shirland,81,43,58,191,fresh-thinking
+69,Raddie Wenman,44,33,45,236,strategy
+70,Averill Swetmore,27,33,82,163,collaboration
+71,Zelig Philipeaux,14,76,55,168,Managed
+72,Georgette Mustchin,9,49,43,27,asymmetric
+73,Katheryn Birney,19,95,45,83,24/7
+74,Lyndsey Niemiec,12,21,42,247,Versatile
+75,Erskine Ruberry,29,52,81,229,reciprocal
+76,Ainsley Rickwood,13,91,30,239,archive
+77,Zabrina Dolphin,53,1,93,216,reciprocal
+78,Consalve Di Pietro,51,88,99,11,Cross-platform
+79,Josiah Rosindill,44,86,95,55,global
+80,Virgil Alleburton,65,75,60,191,zero defect
+81,Anya Peplay,71,96,27,240,Secured
+82,Kandace Jancar,79,94,22,47,holistic
+83,Novelia Bourrel,44,90,22,162,Synergistic
+84,Gerladina Raymond,49,0,53,103,Streamlined
+85,Shanon Mussilli,17,30,28,182,Seamless
+86,Christoffer Picken,36,4,28,223,methodical
+87,Lettie Dumblton,22,76,75,178,concept
+88,Egbert Dower,71,27,62,268,flexibility
+89,Boycey Braun,28,64,85,100,incremental
+90,Elliot Jencken,51,42,16,235,secondary
+91,Nedi Earwaker,77,33,37,48,Customer-focused
+92,Truman Feechum,78,61,67,287,demand-driven
+93,Wilmer Dowles,62,56,56,11,local
+94,Ariel Pentycost,80,1,25,252,budgetary management
+95,Dana De Luna,92,70,49,115,installation
+96,Annabel Firmage,7,26,59,215,standardization
+97,Tonya Fort,97,22,80,261,transitional
+98,Yvon Kalkhoven,49,86,95,282,Devolved
+99,Dennis Gribbin,42,16,100,201,Cloned
+100,Sherrie Roseveare,26,85,100,204,help-desk
